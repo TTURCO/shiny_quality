@@ -1,4 +1,5 @@
 Vocal Type Assessor 🎙️📊
+
 Vocal Type Assessor is an interactive R Shiny web application designed for audio analysis, transcription, and categorical annotation of .wav sound files. Built specifically for linguistic and phonetic research, it runs entirely client-side in the web browser via Shinylive and GitHub Pages, eliminating server timeouts and hosting costs.
 
 ✨ Key Features
