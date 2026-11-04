@@ -19,4 +19,4 @@ Universal Multi-Language Support: Fully supports special characters and diacriti
 
 Serverless Deployment: Hosted for free via GitHub Pages using WebAssembly (WASM), ensuring zero backend server limits or subscription fees.
 
-For more information contact: aitana.arasco@gmail.com
+This project is simply hosted on my GitHub page, for more information please contact: aitana.arasco@gmail.com
