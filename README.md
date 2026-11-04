@@ -7,11 +7,7 @@ Vocal Type Assessor is an interactive R Shiny web application designed for audio
 
 Audio Review & Playback: Upload and review multiple .wav files sequentially with an integrated audio player.
 
-Visualized Sound Analysis: Automatically generates high-depth Oscillograms and Spectrograms (0-8 kHz) using tuneR and seewave.
-
-Structured Categorization: Classify audio clips into configurable types (Verbal, Non-verbal, Interjection, Mix) with mandatory explanation fields for complex categories.
-
-Transcription & Translation: Record comments, phonetic/orthographic transcriptions, and your translations.
+Transcription : Record comments, phonetic/orthographic transcriptions
 
 Auto-Save & Session Recovery: Automatically captures progress snapshots (vocal_review_snapshot.rds) allowing users to seamlessly resume sessions by re-uploading the working file set.
 
