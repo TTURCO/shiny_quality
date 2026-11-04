@@ -18,3 +18,5 @@ Auto-Save & Session Recovery: Automatically captures progress snapshots (vocal_r
 Universal Multi-Language Support: Fully supports special characters and diacritics across multiple languages (French, English, Turkish, Mandarin, Japanese, Filipino, etc.) with robust UTF-8 CSV exports.
 
 Serverless Deployment: Hosted for free via GitHub Pages using WebAssembly (WASM), ensuring zero backend server limits or subscription fees.
+
+For more information contact: aitana.arasco@gmail.com
