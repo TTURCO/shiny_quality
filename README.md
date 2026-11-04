@@ -11,7 +11,7 @@ Visualized Sound Analysis: Automatically generates high-depth Oscillograms and S
 
 Structured Categorization: Classify audio clips into configurable types (Verbal, Non-verbal, Interjection, Mix) with mandatory explanation fields for complex categories.
 
-Transcription & Translation: Record comments, phonetic/orthographic transcriptions, and target translations.
+Transcription & Translation: Record comments, phonetic/orthographic transcriptions, and your translations.
 
 Auto-Save & Session Recovery: Automatically captures progress snapshots (vocal_review_snapshot.rds) allowing users to seamlessly resume sessions by re-uploading the working file set.
 
